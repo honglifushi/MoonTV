@@ -81,6 +81,10 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "laosebizy"
     },
+     "senlinzy": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "senlinzy"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"

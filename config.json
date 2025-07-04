@@ -77,6 +77,10 @@
       "api": "https://155api.com/api.php/provide/vod",
       "name": "155"
     },
+    "laosebizy": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "laosebizy"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"

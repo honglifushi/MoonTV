@@ -109,6 +109,10 @@
       "api": "https://www.caoliuzyw.com/api.php/provide/vod",
       "name": "caoliuzyw"
     },
+    "fhapi9": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "fhapi9"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"

@@ -6,9 +6,9 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "fhapi9": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "fhapi9"
+    "fhzy10": {
+      "api": "http://fhapiby.com/api.php/provide/vod",
+      "name": "fhzy10"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
